@@ -1,0 +1,75 @@
+[
+    {
+      "orderId": 101,
+      "customerName": "John Doe",
+      "items": [
+        {
+          "product": "Laptop",
+          "price": 999.99,
+          "quantity": 1
+        },
+        {
+          "product": "Mouse",
+          "price": 25.5,
+          "quantity": 2
+        }
+      ],
+      "status": "shipped"
+    },
+    {
+      "orderId": 102,
+      "customerName": "Jane Smith",
+      "items": [
+        {
+          "product": "Headphones",
+          "price": 75,
+          "quantity": 1
+        },
+        {
+          "product": "Monitor",
+          "price": 150,
+          "quantity": 2
+        }
+      ],
+      "status": "processing"
+    },
+    {
+      "orderId": 103,
+      "customerName": "Sam Wilson",
+      "items": [
+        {
+          "product": "Keyboard",
+          "price": 45,
+          "quantity": 1
+        },
+        {
+          "product": "Speakers",
+          "price": 60,
+          "quantity": 1
+        },
+        {
+          "product": "Webcam",
+          "price": 85,
+          "quantity": 1
+        }
+      ],
+      "status": "delivered"
+    },
+    {
+      "orderId": 104,
+      "customerName": "Lisa Ray",
+      "items": [
+        {
+          "product": "USB Cable",
+          "price": 5,
+          "quantity": 3
+        },
+        {
+          "product": "Hard Drive",
+          "price": 70,
+          "quantity": 1
+        }
+      ],
+      "status": "processing"
+    }
+  ]
